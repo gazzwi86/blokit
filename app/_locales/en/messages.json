@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Blok It",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "An extension for blocking search results, sites and/or ads from websites that are seen to fund hate or seek to misinform",
+    "description": "The description of the application"
+  }
+}
